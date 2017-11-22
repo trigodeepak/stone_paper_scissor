@@ -5,9 +5,9 @@ The procedure of the game is :
   - Analyse the result obtained
   - Make a guess what will the user will input next
   - Based on this prediction it will give certain input.
-  - And user will keep on playing with ai
+  - And user will keep on playing with AI
 
-Hence user can play with the ai. 
+Hence user can play with the AI. 
 
 This is made by:
   Anita : @Anitaasanu,
