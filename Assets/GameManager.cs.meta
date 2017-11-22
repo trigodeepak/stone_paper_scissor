@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cf25f4af92ffc4d4b9d4f389b680e89e
+timeCreated: 1510646502
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - WinnerText: {instanceID: 0}
+  - paperImage: {fileID: 21300000, guid: 054002b44120f2c4193b16bd1c61e262, type: 3}
+  - rockImage: {fileID: 21300000, guid: ee39c6f31218a9a42a552008a227283c, type: 3}
+  - scissorImage: {fileID: 21300000, guid: 5f0a984e128b59145b1161d48b837f54, type: 3}
+  - botChooseImage: {instanceID: 0}
+  - ScoreCard: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
