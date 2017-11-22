@@ -8,3 +8,7 @@ The procedure of the game is :
   - And user will keep on playing with ai
 
 Hence user can play with the ai. 
+
+This is made by:
+  Anita : @Anitaasanu
+  Deepak : @trigodeepak
