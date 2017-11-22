@@ -6,4 +6,5 @@ The procedure of the game is :
   - Make a guess what will the user will input next
   - Based on this prediction it will give certain input.
   - And user will keep on playing with ai
+
 Hence user can play with the ai. 
