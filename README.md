@@ -10,5 +10,5 @@ The procedure of the game is :
 Hence user can play with the AI. 
 
 This is made by:
-  Anita : @Anitaasanu,
-  Deepak : @trigodeepak
+  Anita : @Anitaasanu(https://github.com/Anitaasanu),
+  Deepak : @trigodeepak(https://github.com/trigodeepak)
